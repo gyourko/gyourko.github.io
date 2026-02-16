@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Brad Ross",
+    "title": "Joseph Gyourko",
     "section": "",
-    "text": "I am a Postdoctoral Researcher in Transportation Economics… [Paste bio here]"
+    "text": "Joseph Gyourko is the Martin Bucksbaum Professor of Real Estate, Finance, and Business Economics & Public Policy at The Wharton School… [add more bio here]"
   },
   {
     "objectID": "index.html#about",
@@ -18,13 +18,27 @@
     "href": "index.html#research-interests",
     "title": "Joseph Gyourko",
     "section": "Research Interests",
-    "text": "Research Interests\n\nHousing Markets"
+    "text": "Research Interests\n\nReal Estate Finance\nUrban Economics\nHousing Markets"
   },
   {
     "objectID": "paper.html",
     "href": "paper.html",
     "title": "Research",
     "section": "",
-    "text": "Working Papers\nEstimating Counterfactual Matrix Means with Short Panel Data with Lihua Lei Preprint | Abstract\nMeasuring and Mitigating Traffic Externalities with Zane Kashner PDF | Journal Link"
+    "text": "Why Have Housing Prices Gone Up?  with Edward L. Glaeser and Raven E. Saks  American Economic Review, Vol. 95, No. 2 (2005)  Journal Link | PDF"
+  },
+  {
+    "objectID": "index.html#biography",
+    "href": "index.html#biography",
+    "title": "Joseph Gyourko",
+    "section": "",
+    "text": "Joseph Gyourko is the Martin Bucksbaum Professor of Real Estate, Finance, and Business Economics & Public Policy at The Wharton School… [add more bio here]"
+  },
+  {
+    "objectID": "paper.html#publications",
+    "href": "paper.html#publications",
+    "title": "Research",
+    "section": "",
+    "text": "Why Have Housing Prices Gone Up?  with Edward L. Glaeser and Raven E. Saks  American Economic Review, Vol. 95, No. 2 (2005)  Journal Link | PDF"
   }
 ]
