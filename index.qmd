@@ -1,24 +1,40 @@
 ---
 title: "Joseph Gyourko"
 about:
-  template: solana
+  template: trestles # This creates the exact left-sidebar layout
   image: assets/headshot.jpg
   links:
-    - icon: google-scholar
-      text: Google Scholar
-      href: https://scholar.google.com/citations?user=z-bLGJYAAAAJ
-    - icon: file-pdf
-      text: Curriculum Vitae
-      href: assets/gyourko_cv.pdf
+    - icon: geo-alt-fill
+      text: Philadelphia, PA
     - icon: envelope
       text: Email
       href: mailto:gyourko@wharton.upenn.edu
+    - icon: google-scholar
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=z-bLGJYAAAAJ
 ---
 
-## Biography
-Joseph Gyourko is the Martin Bucksbaum Professor of Real Estate, Finance, and Business Economics & Public Policy at The Wharton School... [add more bio here]
+I am the Martin Bucksbaum Professor of Real Estate, Finance, and Business Economics & Public Policy at The Wharton School of the University of Pennsylvania.
 
-## Research Interests
-* Real Estate Finance
-* Urban Economics
-* Housing Markets
+* [CV](assets/gyourko_cv.pdf)
+
+**Contact Information:** Department of Real Estate  
+448 Dinan Hall, 3733 Spruce Street  
+Philadelphia, PA 19104  
+
+gyourko [at] wharton [dot] upenn [dot] edu
+
+---
+
+### Wharton Residential Land Use Regulatory Index (WRLURI)
+
+The 2008 and 2019 WRLURI index may be downloaded below. Please let me know if you see any errors.
+
+* **2019 Index Data:** [Download .dta](assets/WRLURI/WRLURI_01_15_2020.dta)
+* **2008 Index Data:** [Download .dta](assets/WRLURI/WHARTON%20LAND%20REGULATION%20DATA_1_24_2008.dta)
+
+**Citations:**
+
+**2019:** “The Local Residential Land Use Regulatory Environment Across U.S. Housing Markets: Evidence from a New Wharton Index”, *Journal of Urban Economics*, Vol. 124 (July 2019). (with Jonathan Hartley and Jacob Krimmel).
+
+**2008:** “A New Measure of the Local Regulatory Environment for Housing Markets”, *Urban Studies*, Vol. 45, no. 3 (2008): 693-729. (with Albert Saiz and Anita A. Summers).
