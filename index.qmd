@@ -1,25 +1,24 @@
 ---
 title: "Joseph Gyourko"
 about:
-  template: solana  # This creates the sidebar layout from your photo
+  template: solana
   image: assets/headshot.jpg
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/username
-    - icon: github
-      text: Github
-      href: https://github.com/username
     - icon: google-scholar
       text: Google Scholar
-      href: https://scholar.google.com/
+      href: https://scholar.google.com/citations?user=z-bLGJYAAAAJ
+    - icon: file-pdf
+      text: Curriculum Vitae
+      href: assets/gyourko_cv.pdf
     - icon: envelope
       text: Email
-      href: mailto:pi-email@university.edu
+      href: mailto:gyourko@wharton.upenn.edu
 ---
 
-## About
-
+## Biography
+Joseph Gyourko is the Martin Bucksbaum Professor of Real Estate, Finance, and Business Economics & Public Policy at The Wharton School... [add more bio here]
 
 ## Research Interests
+* Real Estate Finance
+* Urban Economics
 * Housing Markets
