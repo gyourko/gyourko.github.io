@@ -16,6 +16,6 @@ website:
 
 format:
   html:
-    theme: flatly # A clean, academic look similar to your photo
+    theme: cosmo # A clean, academic look similar to your photo
     css: styles.css
     toc: false
