@@ -1,5 +1,5 @@
 ---
-title: "Brad Ross"
+title: "Joseph Gyourko"
 about:
   template: solana  # This creates the sidebar layout from your photo
   image: assets/headshot.jpg
@@ -19,9 +19,7 @@ about:
 ---
 
 ## About
-I am a Postdoctoral Researcher in Transportation Economics... [Paste bio here]
+
 
 ## Research Interests
-* Urban Economics
 * Housing Markets
-* Causal Inference
