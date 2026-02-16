@@ -18,3 +18,4 @@ format:
     theme: cosmo # A clean, academic look similar to your photo
     css: styles.css
     toc: false
+    link-external-newwindow: true  # This makes all external links open in a new tab

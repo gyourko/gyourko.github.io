@@ -2,11 +2,391 @@
 title: "Research"
 ---
 
-## Publications
+# Working Papers
 
-**Why Have Housing Prices Gone Up???** <br>
-*with Edward L. Glaeser and Raven E. Saks* <br>
-*American Economic Review*, Vol. 95, No. 2 (2005) <br>
-[Journal Link](https://www.aeaweb.org/articles?id=10.1257/000282805774670185) | [PDF](assets/glaeser_gyourko_2005.pdf)
+**Measuring Neighborhood Change: The Issue of Ex Post Borders**  
+*with Edward Glaeser and Braydon Neiszner*  
+NBER Working Paper 34238 (2025)  
+[DOI](https://doi.org/10.3386/w34238)
+
+**America’s Housing Supply Problem: The Closing of the Suburban Frontier?**  
+*with Edward Glaeser*  
+NBER Working Paper 33876 (2025)  
+[DOI](https://doi.org/10.3386/w33876)
+
+**Why Has Construction Productivity Stagnated? The Role of Land Use Regulation**  
+*with Leonardo D’Amico, Edward Glaeser, William Kerr, and Giacomo A.M. Ponzetto*  
+NBER Working Paper 33188 (2024)  
+[DOI](https://doi.org/10.3386/w33188)
+
+**The Distaste for Housing Density**  
+*with Sean McCulloch*  
+NBER Working Paper 33078 (2024)  
+[DOI](https://doi.org/10.3386/w33078)
+
+**Minimum Lot Size Restrictions: Impacts on Urban Form and House Price at the Border**  
+*with Sean McCulloch*  
+NBER Working Paper 31710 (2023)  
+[DOI](https://doi.org/10.3386/w31710)
+
+**A New Look at the Foreclosure Crisis: Panel Data Evidence of Prime and Subprime Borrowers from 1997 to 2012**  
+NBER Working Paper 21261 (2015)  
+[DOI](https://doi.org/10.3386/w21261)
+
+**Regulation and Housing Supply**  
+*with Raven Molloy*  
+NBER Working Paper 20536 (2014)  
+[DOI](https://doi.org/10.3386/w20536)
+
+**Is There Evidence of a Real Estate Collateral Channel Effect on Listed Firm Investment in China?**  
+*with Yongheng Deng and Wu Jing*  
+NBER Working Paper 18762 (2013)  
+[DOI](https://doi.org/10.3386/w18762)
 
 ---
+
+# Published Journal Articles
+
+## 2026–2010
+
+**Does Political Partisanship Affect Housing Supply? Evidence from U.S. Cities**  
+*with Fernando Ferreira*  
+*Journal of Urban Economics* (Forthcoming, 2026)  
+[DOI](https://doi.org/10.3386/w31966)
+
+**America’s Housing Supply Problem: The Closing of the Suburban Frontier?**  
+*with Edward Glaeser*  
+*Brookings Papers on Economic Activity*, Spring 2025  
+[DOI](https://doi.org/10.3386/w33876)
+
+**Anatomy of the Beginning of the Housing Boom Across U.S. Metropolitan Areas**  
+*with Fernando Ferreira*  
+*Review of Economics and Statistics*, 105(6) (2023)  
+[DOI](https://doi.org/10.3386/w17374)
+
+**Land Finance in China: Analysis and Review**  
+*with Yang Shen, Jing Wu, and Rongjie Zhang*  
+*China Economic Review*, 76 (2022)  
+[DOI](https://doi.org/10.1515/cfer-2016-050306)
+
+**The Impact of Local Residential Land Use Restrictions on Land Values Across and Within Single Family Housing Markets**  
+*with Jacob Krimmel*  
+*Journal of Urban Economics*, 126 (2021)  
+[DOI](https://doi.org/10.3386/w28993)
+
+**The Local Residential Land Use Regulatory Environment Across U.S. Housing Markets**  
+*with Jonathan Hartley and Jacob Krimmel*  
+*Journal of Urban Economics*, 124 (2019)  
+[DOI](https://doi.org/10.3386/w26573)
+
+**Singapore’s Cooling Measures and Its Housing Market**  
+*with Yongheng Deng and Lin Ting*  
+*Journal of Housing Economics*, 45 (2019)  
+[DOI](https://doi.org/10.1016/j.jhe.2018.04.001)
+
+**The Role of Price Spillovers in the American Housing Boom**  
+*with Anthony DeFusco, Wenjie Ding, and Fernando Ferreira*  
+*Journal of Urban Economics*, 108 (2018)  
+[DOI](https://doi.org/10.1016/j.jue.2018.10.001)
+
+**The Economics of Housing Supply**  
+*with Edward Glaeser*  
+*Journal of Economic Perspectives*, 32(1) (2018)  
+[DOI](https://doi.org/10.1332/policypress/9781529211863.003.0011)
+
+**Evaluating the Risk of Chinese Housing Markets**  
+*with Yongheng Deng and Wu Jing*  
+*China Economic Review*, 39 (2016)  
+[DOI](https://doi.org/10.3386/w21346)
+
+**Real Estate Collateral Value and Investment: The Case of China**  
+*with Yongheng Deng and Wu Jing*  
+*Journal of Urban Economics*, 86 (2015)  
+[DOI](https://doi.org/10.1016/j.jue.2014.12.006)
+
+**Housing Dynamics: An Urban Approach**  
+*with Edward Glaeser, Eduardo Morales, and Charles Nathanson*  
+*Journal of Urban Economics*, 81 (2014)  
+[DOI](https://doi.org/10.1016/j.jue.2014.02.003)
+
+**Does Gender Matter for Political Leadership? The Case of U.S. Mayors**  
+*with Fernando Ferreira*  
+*Journal of Public Economics*, 112 (2014)  
+[DOI](https://doi.org/10.1016/j.jpubeco.2014.01.006)
+
+**Reconciling Theory and Empirics on the Role of Unemployment in Mortgage Default**  
+*with Joseph Tracy*  
+*Journal of Urban Economics*, 80 (2014)  
+[DOI](https://doi.org/10.1016/j.jue.2013.10.005)
+
+**Superstar Cities**  
+*with Chris Mayer and Todd Sinai*  
+*American Economic Journal: Economic Policy*, 5(4) (2013)  
+[DOI](https://doi.org/10.1257/pol.5.4.167)
+
+**Housing Mobility and Housing Busts: An Update**  
+*with Fernando Ferreira and Joseph Tracy*  
+*Economic Policy Review* (2012)  
+[DOI](https://doi.org/10.3386/w17405)
+
+**Evaluating Conditions in Major Chinese Housing Markets**  
+*with Yongheng Deng and Wu Jing*  
+*Regional Science and Urban Economics*, 42(3) (2012)  
+[DOI](https://doi.org/10.3386/w16189)
+
+**Heterogeneity in Neighborhood-Level Price Growth in the U.S., 1993–2009**  
+*American Economic Review*, 102(3) (2012)  
+[DOI](https://doi.org/10.1257/aer.102.3.134)
+
+**Housing Busts and Household Mobility**  
+*with Fernando Ferreira and Joseph Tracy*  
+*Journal of Urban Economics*, 68(1) (2010)  
+[DOI](https://doi.org/10.3386/w14310)
+
+---
+
+## 2009–2000
+
+**Do Political Parties Matter? Evidence from U.S. Cities**  
+*with Fernando Ferreira*  
+*Quarterly Journal of Economics*, 124(1) (2009)  
+[DOI](https://doi.org/10.1162/qjec.2009.124.1.399)
+
+**Understanding Commercial Real Estate: How Different from Housing Is It?**  
+*Journal of Portfolio Management* (2009)  
+[DOI](https://doi.org/10.3386/w14708)
+
+**Housing Supply and Housing Bubbles**  
+*with Edward Glaeser and Albert Saiz*  
+*Journal of Urban Economics*, 64(2) (2008)  
+[DOI](https://doi.org/10.1016/j.jue.2008.07.007)
+
+**A New Measure of the Local Regulatory Environment for Housing Markets**  
+*with Albert Saiz and Anita Summers*  
+*Urban Studies*, 45 (2008)  
+[DOI](https://doi.org/10.2139/ssrn.951463)
+
+**Using Home Maintenance and Repairs to Smooth Variable Earnings**  
+*with Joseph Tracy*  
+*Review of Economics and Statistics*, 88(4) (2006)  
+[DOI](https://doi.org/10.2139/ssrn.410064)
+
+**Construction Costs and the Supply of Housing Structure**  
+*with Albert Saiz*  
+*Journal of Regional Science*, 46(4) (2006)  
+[DOI](https://doi.org/10.1111/j.1467-9787.2006.00472.x)
+
+**Urban Growth and Housing Supply**  
+*with Edward Glaeser and Raven Saks*  
+*Journal of Economic Geography*, 6(1) (2006)  
+[DOI](https://doi.org/10.1093/jeg/lbi003)
+
+**Why Is Manhattan So Expensive? Regulation and the Rise in House Prices**  
+*with Edward Glaeser and Raven Saks*  
+*Journal of Law & Economics*, 48(2) (2005)  
+[DOI](https://doi.org/10.1086/429979)
+
+**Urban Decline and Durable Housing**  
+*with Edward Glaeser*  
+*Journal of Political Economy*, 113(2) (2005)  
+[DOI](https://doi.org/10.1086/427465)
+
+**Why Have House Prices Gone Up?**  
+*with Edward Glaeser and Raven Saks*  
+*American Economic Review*, 95(2) (2005)  
+[DOI](https://doi.org/10.3386/w11129)
+
+**Reinvestment in the Housing Stock: The Role of Construction Costs and the Supply Side**  
+*with Albert Saiz*  
+*Journal of Urban Economics*, 55(2) (2004)  
+[DOI](https://doi.org/10.1016/j.jue.2003.09.004)
+
+**The Asset Price Incidence of Capital Gains Taxes: Evidence from the Taxpayer Relief Act of 1997 and Publicly-Traded Real Estate Firms**  
+*with Todd Sinai*  
+*Journal of Public Economics*, 88(7–8) (2004)  
+[DOI](https://doi.org/10.1016/S0047-2727(03)00036-7)
+
+**The Spatial Distribution of Housing-Related Tax Benefits in the United States**  
+*with Todd Sinai*  
+*Real Estate Economics*, 31 (2003)  
+[DOI](https://doi.org/10.3386/w8165)
+
+**Capitalization of Federal Taxes, the Relative Price of Housing, and Urban Form**  
+*with Richard Voith*  
+*Regional Science and Urban Economics*, 32 (2002)  
+[DOI](https://doi.org/10.21799/frbp.wp.2000.12)
+
+**The Spatial Distribution of Affordable Home Loan Purchases**  
+*with Dapeng Hu*  
+*Regional Science and Urban Economics*, 32 (2002)  
+[DOI](https://doi.org/10.1016/s0166-0462(01)00101-6)
+
+**Financing New Urbanism Projects: Obstacles and Solutions**  
+*with Witold Rybczynski*  
+*Housing Policy Debate*, 11(3) (2000)  
+[DOI](https://doi.org/10.1080/10511482.2000.9521384)
+
+**Changes in the Scale and Size Distribution of Metropolitan Areas**  
+*with Steven Ehrlich*  
+*Urban Studies*, 37 (2000)  
+[DOI](https://doi.org/10.1080/00420980020080011)
+
+---
+
+## 1999–1987
+
+**Analyzing the Relation Among Race, Wealth, and Home Ownership in America**  
+*with Peter Linneman and Susan Wachter*  
+*Journal of Housing Research*, 8 (1999)  
+[DOI](https://doi.org/10.1006/jhec.1999.0242)
+
+**The REIT Vehicle: Its Value Today and in the Future**  
+*with Todd Sinai*  
+*Journal of Real Estate Research*, 18 (1999)  
+[DOI](https://doi.org/10.1080/10835547.1999.12091000)
+
+**Place- Versus People-Based Aid and the Role of an Urban Audit in a New Urban Strategy**  
+*Cityscape*, 3(3) (1998)  
+[DOI](https://doi.org/10.2139/ssrn.156917)
+
+**The Changing Strength of Socioeconomic Factors Affecting Home Ownership in the United States: 1960–1990**  
+*Scottish Journal of Political Economy*, 45(4) (1998)  
+[DOI](https://doi.org/10.1111/1467-9485.00108)
+
+**Evaluating the Costs of Increased Lending in Low and Negative Growth Markets**  
+*with Fang-xiong Gong*  
+*Real Estate Economics*, 26 (1998)  
+[DOI](https://doi.org/10.1111/1540-6229.00744)
+
+**The Changing Influences of Education, Income, Family Structure, and Race on Home Ownership by Age Over Time**  
+*Journal of Housing Research*, 8(1) (1997)  
+[DOI](https://doi.org/10.18207/criso.2014..101.151)
+
+**The Predictability of Equity REIT Returns**  
+*with Edward Nelling*  
+*Journal of Real Estate Research*, 16 (1998)  
+[DOI](https://doi.org/10.2139/ssrn.241208)
+
+**Systematic Risk and Diversification in the Equity REIT Market**  
+*with Edward Nelling*  
+*Real Estate Economics*, 24 (1996)  
+[DOI](https://doi.org/10.2469/dig.v27.n3.114)
+
+**Analysis of the Changing Influences on Traditional Households' Ownership Patterns**  
+*with Peter Linneman*  
+*Journal of Urban Economics*, 39 (1996)  
+[DOI](https://doi.org/10.1006/juec.1996.0017)
+
+**The Affordability of the American Dream**  
+*with Peter Linneman*  
+*Journal of Housing Research*, 4 (1994)  
+[DOI](https://doi.org/10.1093/oso/9780195152784.003.0011)
+
+**Leasing as a Lottery**  
+*with Richard Voith*  
+*AREUEA Journal*, 1993  
+[DOI](https://doi.org/10.2172/5584976)
+
+**What Does the Stock Market Tell Us About Real Estate Returns?**  
+*with Donald Keim*  
+*AREUEA Journal*, 1992  
+[DOI](https://doi.org/10.1111/1540-6229.00591)
+
+**Local Market and National Components in House Price Appreciation**  
+*with Richard Voith*  
+*Journal of Urban Economics*, 32(1) (1992)  
+[DOI](https://doi.org/10.1016/0094-1190(92)90014-c)
+
+**Impact Fees, Exclusionary Zoning, and the Density of New Development**  
+*Journal of Urban Economics*, 30 (1991)  
+[DOI](https://doi.org/10.1016/0094-1190(91)90039-A)
+
+**The Structure of Local Public Finance and the Quality of Life**  
+*with Joseph Tracy*  
+*Journal of Political Economy*, 99 (1991)  
+[DOI](https://doi.org/10.1086/261778)
+
+**Analyzing the Risk of Income-Producing Real Estate**  
+*with Peter Linneman*  
+*Urban Studies*, 27(4) (1990)  
+[DOI](https://doi.org/10.1111/1540-6229.12208)
+
+**Measurement Problems in Quantifying the Distributional Effects of Subsidy Programs**  
+*with Peter Linneman*  
+*Journal of Urban Economics*, 28(1) (1990)  
+[DOI](https://doi.org/10.1016/0094-1190(90)90039-p)
+
+**Rent Controls and Rental Housing Quality: A Note on the Effects of New York City's Old Controls**  
+*with Peter Linneman*  
+*Journal of Urban Economics*, 27(3) (1990)  
+[DOI](https://doi.org/10.1016/0094-1190(90)90009-c)
+
+**Local Public Sector Rent-Seeking and Its Impact on Local Land Values**  
+*with Joseph Tracy*  
+*Regional Science and Urban Economics*, 19(3) (1989)  
+[DOI](https://doi.org/10.1016/0166-0462(89)90016-1)
+
+**Housing Wealth, Housing Finance, and Tenure Choice in Korea**  
+*with Jaehye Kim Han*  
+*Regional Science and Urban Economics*, 19(2) (1989)  
+[DOI](https://doi.org/10.1016/0166-0462(89)90004-5)
+
+**The Importance of Local Fiscal Conditions in Analyzing Local Labor Markets**  
+*with Joseph Tracy*  
+*Journal of Political Economy*, 97(5) (1989)  
+[DOI](https://doi.org/10.1086/261650)
+
+**On the Political Economy of Land Value Capitalization and Local Public Sector Rent-Seeking in a Tiebout Model**  
+*with Joseph Tracy*  
+*Journal of Urban Economics*, 26 (1989)  
+[DOI](https://doi.org/10.1016/0094-1190(89)90014-4)
+
+**Equity and Efficiency Aspects of Rent Control: An Empirical Study of New York City**  
+*with Peter Linneman*  
+*Journal of Urban Economics*, 26 (1989)  
+[DOI](https://doi.org/10.1016/0094-1190(89)90027-2)
+
+**Owner-Occupied Homes, Income-Producing Properties, and REITs as Inflation Hedges**  
+*with Peter Linneman*  
+*Journal of Real Estate Finance and Economics*, 1 (1988)  
+[DOI](https://doi.org/10.1007/BF00187072)
+
+**An Analysis of Public- and Private-Sector Wages Allowing for Endogenous Choices of Both Government and Union Status**  
+*with Joseph Tracy*  
+*Journal of Labor Economics*, 6(2) (1988)  
+[DOI](https://doi.org/10.1086/298182)
+
+**Effects of Local Tax Structures on Manufacturing Activity Across Cities**  
+*Journal of Urban Economics*, 22 (1987)  
+[DOI](https://doi.org/10.1016/0094-1190(87)90037-4)
+
+---
+
+# Books
+
+**Rethinking Federal Housing Policy: How to Make Housing Plentiful and Affordable**  
+*with Edward Glaeser*  
+AEI Press (2008)
+
+---
+
+# Chapters & Major Reviews
+
+**Regulation and Housing Supply**  
+*with Raven Molloy*  
+In *Handbook of Regional and Urban Economics*, Vol. 5A (2015)
+
+**Urban Housing Markets**  
+In *Making Cities Work* (2009)
+
+**Housing Supply**  
+*Annual Review of Economics*, Vol. 1 (2009)
+
+**Arbitrage in Housing Markets**  
+In *Housing and the Built Environment* (2010)
+
+**Dispersion in House Price and Income Growth Across Markets**  
+In *Agglomeration Economics* (2010)
+
+**Land and House Price Measurement in China**  
+In *Property Markets and Financial Stability* (2012)
