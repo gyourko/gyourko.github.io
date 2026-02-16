@@ -3,16 +3,15 @@ project:
   output-dir: docs  # This tells GitHub to look here for the live site
 
 website:
-  title: "PI Name"
   navbar:
     right:
       - text: "About"
         href: index.qmd
       - text: "Research"
-        href: papers.qmd
+        href: paper.qmd
       - icon: file-pdf
         text: "CV"
-        href: assets/CV.pdf
+        href: assets/gyourko_cv.pdf
 
 format:
   html:
