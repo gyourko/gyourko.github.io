@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Brad Ross",
+    "section": "",
+    "text": "I am a Postdoctoral Researcher in Transportation Economics… [Paste bio here]"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Brad Ross",
+    "section": "",
+    "text": "I am a Postdoctoral Researcher in Transportation Economics… [Paste bio here]"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Brad Ross",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nUrban Economics\nHousing Markets\nCausal Inference"
+  },
+  {
+    "objectID": "paper.html",
+    "href": "paper.html",
+    "title": "Research",
+    "section": "",
+    "text": "Working Papers\nEstimating Counterfactual Matrix Means with Short Panel Data with Lihua Lei Preprint | Abstract\nMeasuring and Mitigating Traffic Externalities with Zane Kashner PDF | Journal Link"
+  }
+]

@@ -1,0 +1,27 @@
+---
+title: "Brad Ross"
+about:
+  template: solana  # This creates the sidebar layout from your photo
+  image: assets/headshot.jpg
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/username
+    - icon: github
+      text: Github
+      href: https://github.com/username
+    - icon: google-scholar
+      text: Google Scholar
+      href: https://scholar.google.com/
+    - icon: envelope
+      text: Email
+      href: mailto:pi-email@university.edu
+---
+
+## About
+I am a Postdoctoral Researcher in Transportation Economics... [Paste bio here]
+
+## Research Interests
+* Urban Economics
+* Housing Markets
+* Causal Inference
