@@ -1,5 +1,6 @@
 ---
 title: "Joseph Gyourko"
+page-layout: full  # This removes the standard margins entirely
 about:
   template: trestles # This creates the exact left-sidebar layout
   image: assets/headshot.jpg
@@ -14,7 +15,7 @@ about:
       href: https://scholar.google.com/citations?user=z-bLGJYAAAAJ
 ---
 
-I am the Martin Bucksbaum Professor of Real Estate, Finance, and Business Economics & Public Policy at The Wharton School of the University of Pennsylvania.
+Joe Gyourko is the Martin Bucksbaum Professor of Real Estate, Finance and Business & Public Policy at The Wharton School of the University of Pennsylvania. He served as the Nancy Nasher and David Haemiseggar Director of the Zell/Lurie Real Estate Center at Wharton for the past quarter century, and he is a past Chair of the Wharton Real Estate Department. Professor Gyourko’s research interests include housing markets in the United States and China, real estate finance and investments, and urban economics. He is a Research Associate of the National Bureau of Economic Research (NBER) and served as Co-Director of the special NBER Project on Housing Markets and the Financial Crisis. Professor Gyourko served as co-editor of the Journal of Urban Economics and serves on various journal editorial boards. Professor Gyourko is a past Trustee of the Urban Land Institute (ULI) and a past member of the Board of Directors of the Pension Real Estate Association (PREA). Finally, he consults for various private firms on real estate investment and policy matters and is a Nonresident Senior Fellow at the Brookings Institution.
 
 * [CV](assets/gyourko_cv.pdf)
 
@@ -28,13 +29,13 @@ gyourko [at] wharton [dot] upenn [dot] edu
 
 ### Wharton Residential Land Use Regulatory Index (WRLURI)
 
-The 2008 and 2019 WRLURI index may be downloaded below. Please let me know if you see any errors.
+The 2019 and 2008 WRLURI index may be downloaded below. Please let me know if you see any errors.
 
 * **2019 Index Data:** [Download .dta](assets/WRLURI/WRLURI_01_15_2020.dta)
 * **2008 Index Data:** [Download .dta](assets/WRLURI/WHARTON%20LAND%20REGULATION%20DATA_1_24_2008.dta)
 
 **Citations:**
 
-**2019:** “The Local Residential Land Use Regulatory Environment Across U.S. Housing Markets: Evidence from a New Wharton Index”, *Journal of Urban Economics*, Vol. 124 (July 2019). (with Jonathan Hartley and Jacob Krimmel).
+**2019:** [“The Local Residential Land Use Regulatory Environment Across U.S. Housing Markets: Evidence from a New Wharton Index”](https://doi.org/10.1016/j.jue.2021.103337), *Journal of Urban Economics*, Vol. 124 (July 2019). (with Jonathan Hartley and Jacob Krimmel).
 
-**2008:** “A New Measure of the Local Regulatory Environment for Housing Markets”, *Urban Studies*, Vol. 45, no. 3 (2008): 693-729. (with Albert Saiz and Anita A. Summers).
+**2008:** [“A New Measure of the Local Regulatory Environment for Housing Markets”](https://doi.org/10.2139/ssrn.951463), *Urban Studies*, Vol. 45, no. 3 (2008): 693-729. (with Albert Saiz and Anita A. Summers).
