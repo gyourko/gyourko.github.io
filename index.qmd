@@ -1,49 +1,74 @@
 ---
 title: "Joseph Gyourko"
-page-layout: full  # This removes the standard margins entirely
-about:
-  template: trestles # This creates the exact left-sidebar layout
-  image: assets/headshot.jpg
-  links:
-    - icon: geo-alt-fill
-      text: Philadelphia, PA
-    - icon: envelope
-      text: Email
-      href: mailto:gyourko@wharton.upenn.edu
-    - icon: google-scholar
-      text: Google Scholar
-      href: https://scholar.google.com/citations?user=z-bLGJYAAAAJ
+page-layout: full
 ---
 
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+![](assets/headshot.jpg){width="100%" style="border-radius: 5px;"}
+
+<p style="text-align: center; margin-top: 15px; line-height: 2;">
+[<i class="bi bi-envelope"></i> Email](mailto:gyourko@wharton.upenn.edu) | 
+[<i class="bi bi-telephone"></i> 215-898-3003](tel:2158983003) <br>
+[<i class="bi bi-mortarboard-fill"></i> Google Scholar](https://scholar.google.com/citations?user=z-bLGJYAAAAJ){target="_blank"}
+</p>
+
+<div style="text-align: center; margin-bottom: 20px;">
+[[Download CV](assets/gyourko_cv.pdf){target="_blank"}]
+</div>
+
+**Contact Information:** <br>
+Department of Real Estate <br>
+The Wharton School <br>
+1480 Steinberg-Dietrich Hall <br>
+3620 Locust Walk <br>
+Philadelphia, PA 19104-6302
+
+**Email:** gyourko@wharton.upenn.edu <br>
+**Phone:** (215) 898-3003
+:::
+
+::: {.g-col-12 .g-col-md-8}
 Joe Gyourko is the Martin Bucksbaum Professor of Real Estate, Finance and Business & Public Policy at The Wharton School of the University of Pennsylvania. He served as the Nancy Nasher and David Haemiseggar Director of the Zell/Lurie Real Estate Center at Wharton for the past quarter century, and he is a past Chair of the Wharton Real Estate Department. Professor Gyourko’s research interests include housing markets in the United States and China, real estate finance and investments, and urban economics. He is a Research Associate of the National Bureau of Economic Research (NBER) and served as Co-Director of the special NBER Project on Housing Markets and the Financial Crisis. Professor Gyourko served as co-editor of the Journal of Urban Economics and serves on various journal editorial boards. Professor Gyourko is a past Trustee of the Urban Land Institute (ULI) and a past member of the Board of Directors of the Pension Real Estate Association (PREA). Finally, he consults for various private firms on real estate investment and policy matters and is a Nonresident Senior Fellow at the Brookings Institution.
 
-* [CV](assets/gyourko_cv.pdf)
+---
 
-**Contact Information:** Department of Real Estate  
-448 Dinan Hall, 3733 Spruce Street  
-Philadelphia, PA 19104  
+### Current Working Papers
 
-gyourko [at] wharton [dot] upenn [dot] edu
+**Measuring Neighborhood Change: The Issue of Ex Post Borders** *with Edward L. Glaeser and Braydon Neiszner* NBER Working Paper 34238 (September 2025)  
+[Link](https://doi.org/10.3386/w34238){target="_blank"}
+
+**Why Has Construction Productivity Stagnated? The Role of Land Use Regulation** *with Leonardo D’Amico, Edward Glaeser, William Kerr, and Giacomo A.M. Ponzetto* NBER Working Paper 33188 (November 2024)  
+[Link](https://doi.org/10.3386/w33188){target="_blank"}
+
+**The Distaste for Housing Density** *with Sean McCulloch* NBER Working Paper 33078 (October 2024)  
+[Link](https://doi.org/10.3386/w33078){target="_blank"}
 
 ---
 
 ### Wharton Residential Land Use Regulatory Index (WRLURI)
 
-The 2019 and 2008 WRLURI index may be downloaded below. Please let me know if you see any errors.
+The 2019 and 2008 WRLURI index may be downloaded below. 
 
-* **2019 Index Data:** [Download .dta](assets/WRLURI/WRLURI_01_15_2020.dta)
-* **2008 Index Data:** [Download .dta](assets/WRLURI/WHARTON%20LAND%20REGULATION%20DATA_1_24_2008.dta)
+* **2019 Index Data:** [Download .dta](assets/WRLURI/WRLURI_01_15_2020.dta){target="_blank"}
+* **2008 Index Data:** [Download .dta](assets/WRLURI/WHARTON%20LAND%20REGULATION%20DATA_1_24_2008.dta){target="_blank"}
 
 **Citations:**
 
-**2019:** [“The Local Residential Land Use Regulatory Environment Across U.S. Housing Markets: Evidence from a New Wharton Index”](https://doi.org/10.1016/j.jue.2021.103337), *Journal of Urban Economics*, Vol. 124 (July 2019). (with Jonathan Hartley and Jacob Krimmel).
+**2019:** [“The Local Residential Land Use Regulatory Environment Across U.S. Housing Markets: Evidence from a New Wharton Index”](https://doi.org/10.1016/j.jue.2021.103337){target="_blank"}, *Journal of Urban Economics*, Vol. 124 (July 2019).
 
-**2008:** [“A New Measure of the Local Regulatory Environment for Housing Markets”](https://doi.org/10.2139/ssrn.951463), *Urban Studies*, Vol. 45, no. 3 (2008): 693-729. (with Albert Saiz and Anita A. Summers).
+**2008:** [“A New Measure of the Local Regulatory Environment for Housing Markets”](https://doi.org/10.1177/0042098007087338){target="_blank"}, *Urban Studies*, Vol. 45, no. 3 (2008).
 
 ---
 
 ### China Residential Land Price Index (CRLPI)
 
-The CRLPI data and related documentation may be downloaded below as a compressed folder.
-
 [Download CRLPI Data (.zip)](assets/CRLPI.zip){target="_blank"}
+
+**Citations:**
+
+**2012:** [“Evaluating Conditions in Major Chinese Housing Markets”](https://doi.org/10.1016/j.regsciurbeco.2011.03.003){target="_blank"}, *Regional Science and Urban Economics*, 42(3) (2012).
+:::
+
+:::
