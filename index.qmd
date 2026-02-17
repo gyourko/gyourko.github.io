@@ -68,7 +68,7 @@ The 2019 and 2008 WRLURI index may be downloaded below.
 
 **Citations:**
 
-**2012:** [“Evaluating Conditions in Major Chinese Housing Markets”](https://doi.org/10.1016/j.regsciurbeco.2011.03.003){target="_blank"}, *Regional Science and Urban Economics*, 42(3) (2012).
+[“Evaluating Conditions in Major Chinese Housing Markets”](https://doi.org/10.1016/j.regsciurbeco.2011.03.003){target="_blank"}, *Regional Science and Urban Economics*, 42(3) (2012).
 :::
 
 :::
