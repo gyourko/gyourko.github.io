@@ -39,3 +39,11 @@ The 2019 and 2008 WRLURI index may be downloaded below. Please let me know if yo
 **2019:** [“The Local Residential Land Use Regulatory Environment Across U.S. Housing Markets: Evidence from a New Wharton Index”](https://doi.org/10.1016/j.jue.2021.103337), *Journal of Urban Economics*, Vol. 124 (July 2019). (with Jonathan Hartley and Jacob Krimmel).
 
 **2008:** [“A New Measure of the Local Regulatory Environment for Housing Markets”](https://doi.org/10.2139/ssrn.951463), *Urban Studies*, Vol. 45, no. 3 (2008): 693-729. (with Albert Saiz and Anita A. Summers).
+
+---
+
+### China Residential Land Price Index (CRLPI)
+
+The CRLPI data and related documentation may be downloaded below as a compressed folder.
+
+[Download CRLPI Data (.zip)](assets/CRLPI.zip){target="_blank"}

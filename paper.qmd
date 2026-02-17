@@ -49,7 +49,7 @@ NBER Working Paper 33078 (2024)
 **The Impact of Local Residential Land Use Restrictions on Land Values Across and Within Single Family Housing Markets**  
 *with Jacob Krimmel*  
 *Journal of Urban Economics*, 126 (2021)  
-[Link](https://doi.org/10.3386/w28993)
+[Link](https://doi.org/10.3386/w28993)| [Online Appendix](assets/Zoning_Tax_Online_Appendix.pdf)
 
 **The Local Residential Land Use Regulatory Environment Across U.S. Housing Markets**  
 *with Jonathan Hartley and Jacob Krimmel*  
@@ -74,7 +74,7 @@ NBER Working Paper 33078 (2024)
 **Evaluating the Risk of Chinese Housing Markets**  
 *with Yongheng Deng and Wu Jing*  
 *China Economic Review*, 39 (2016)  
-[Link](https://doi.org/10.1016/j.chieco.2016.03.008
+[Link](https://doi.org/10.1016/j.chieco.2016.03.008)
 
 **Real Estate Collateral Value and Investment: The Case of China**  
 *with Yongheng Deng and Wu Jing*  
