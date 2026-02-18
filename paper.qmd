@@ -2,26 +2,6 @@
 title: "Research"
 ---
 
-# Current Working Papers
-
-**Measuring Neighborhood Change: The Issue of Ex Post Borders** 
-*with Edward L. Glaeser, Joseph Gyourko, and Braydon Neiszner*
-NBER Working Paper 34238 (2026)  
-[Link](https://doi.org/10.3386/w34238)
-
-**Why Has Construction Productivity Stagnated? The Role of Land Use Regulation**  
-*with Leonardo D’Amico, Edward Glaeser, William Kerr, and Giacomo A.M. Ponzetto*  
-NBER Working Paper 33188 (2024)  
-[Link](https://doi.org/10.3386/w33188)
-
-**The Distaste for Housing Density**  
-*with Sean McCulloch*  
-NBER Working Paper 33078 (2024)  
-[Link](https://doi.org/10.3386/w33078)
-
-
----
-
 # Published Journal Articles
 
 ## 2026–2010
